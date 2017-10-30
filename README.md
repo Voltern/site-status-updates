@@ -3,4 +3,4 @@
 
 ----
 
-> 30/10/2017 (10:02pm) - The whole site is currently down for updates, It should be back up in a few hours.
+> 30/10/2017 (10:02pm) - The whole site is currently online.
